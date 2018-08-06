@@ -1,0 +1,57 @@
+#plein-ecran {
+    background: url('home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-shadow:#474447 1px 0 10px;
+}
+
+nav a {
+color : white;
+}
+
+#cardone {
+    background-color: #C5C2B9;
+}
+
+.fas {
+    font-size: 50px;
+    color: #C5C2B9;
+    display: flex;
+}
+
+#cardone {
+    background-color: #C5C2B9;
+}
+
+.cardtwo {
+    background-color: #474447;
+}
+
+#contact {
+    background-color: #C5C2B9;
+}
+
+#portfolio{
+    background-color: #474447;
+}
+
+#presentation-jumb {
+    background-color: #474447;
+    height: 100vh;
+}
+
+#comp-jumb {
+    background-color: #C5C2B9;  
+    height: 100vh; 
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+h1 {
+    align-self: center;
+}
