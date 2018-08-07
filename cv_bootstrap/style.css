@@ -6,6 +6,7 @@
     display: flex;
     justify-content: center;
     text-shadow:#474447 1px 0 10px;
+    background-repeat: none;
 }
 
 nav a {
