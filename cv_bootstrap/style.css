@@ -9,7 +9,7 @@
     background-repeat: none;
 }
 
-nav a {
+nav a .nav-item {
 color : white;
 }
 
@@ -21,6 +21,16 @@ color : white;
     font-size: 50px;
     color: #C5C2B9;
     display: flex;
+}
+
+#contact .fas {
+    font-size: 30px;
+    color: #474447;
+}
+
+#contact .far {
+    font-size: 30px;
+    color: #474447;
 }
 
 #cardone {
@@ -56,3 +66,4 @@ nav {
 h1 {
     align-self: center;
 }
+
